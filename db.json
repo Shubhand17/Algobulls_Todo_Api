@@ -1,0 +1,40 @@
+{
+    "todos": [
+      {
+        "title": "Alright yes that was quick",
+        "description": "shubham is learning why beacuse react is making it ",
+        "tags": "yes",
+        "due_date": "2023-04-22T23:35:41",
+        "status": "DUE",
+        "timestamp": "4/7/2023, 8:00:35 PM",
+        "id": 1
+      },
+      {
+        "title": "dsasd",
+        "timestamp": "4/7/2023, 7:31:15 PM",
+        "description": "sadasd",
+        "tags": "asda",
+        "due_date": "2023-04-14T22:34:51",
+        "status": "DUE",
+        "id": 2
+      },
+      {
+        "title": "asdasda",
+        "description": "asdas",
+        "tags": "asdaa",
+        "due_date": "2023-04-15T22:35:58",
+        "status": "DUE",
+        "timestamp": "4/7/2023, 7:32:32 PM",
+        "id": 3
+      },
+      {
+        "title": "Prathamesh",
+        "description": "Prathamesh is larning",
+        "tags": "DSA",
+        "due_date": "2023-04-08T23:05:47",
+        "status": "DUE",
+        "timestamp": "4/7/2023, 8:01:00 PM",
+        "id": 4
+      }
+    ]
+  }
